@@ -9,21 +9,24 @@ Desde hace mucho tiempo existe la costumbre de coleccionar. Según los gustos de
 
 A muchos chicos les gusta juntar figuritas y completar sus álbumes.
 
-1. Miguel y Rodrigo están jugando a las figuritas. Miguel tiene 315 y Rodrigo tiene 398. ¿Cuántas tienen entre los dos?
+1. Miguel y Rodrigo están jugando a las figuritas. Miguel tiene 15 y Rodrigo tiene 10. ¿Cuántas tienen entre los dos?
 
 ![figus 1](https://farm6.staticflickr.com/5595/14497613547_2ac78e3666_z.jpg)
 
-2. Matías tenía 357 figuritas y perdió 256 ¿Cuántas figuritas le quedaron a Matías?
-3. Esteban y Julián tienen, entre los dos, 545 figuritas. De todas esas, 256 son de Esteban y el resto son de Julián. ¿Cuántas figuritas son de Julián?
-4. Federico está juntando figuritas en su álbum. En total entran 378 figuritas. Si ya pegó 150, ¿cuántas le faltan para completarlo?
+2. ¿Cuántas figuritas le quedaron a Matías?
+
+![Figus 2](https://farm4.staticflickr.com/3868/14684740445_04d086785a_z.jpg)
+
+3. Esteban y Julián tienen, entre los dos, 50 figuritas. De todas esas, 20 son de Esteban y el resto son de Julián. ¿Cuántas figuritas son de Julián?
+4. 4. Federico está juntando figuritas en su álbum. En total entran 200 figuritas. Si ya pegó 150, ¿cuántas le faltan para completarlo?
 
 ## Problemas de viajes, rutas y distancias...
 
 La Ruta Nacional 3 es una carretera argentina, que une las provincias de Buenos Aires, Río Negro, Chubut, Santa Cruz y Tierra del Fuego. Es una ruta muy larga, en total tiene 3.074 km.
 
-1. Susana salió de viaje desde Buenos Aires. Recorrió 300 kilómetros hasta Azul y luego 400 kilómetros más para llegar a su ciudad. ¿Cuántos kilómetros recorrió en total? Escriban la cuenta que les sirve para resolver este problema.
+1. Susana salió de viaje desde Buenos Aires. Recorrió 300 kilómetros hasta Azul y luego 400 kilómetros más para llegar a su ciudad. ¿Cuántos kilómetros recorrió en total? Escriban el cálculo que les sirve para resolver este problema.
 2. José vive en Trelew y decide ir a visitar a su familia que vive en Bahía Blanca. Debe recorrer 700 kilómetros. Sale de su casa y, luego de andar 200 kilómetros, se detiene a comer. ¿Cuántos kilómetros le faltan recorrer para llegar a Bahía Blanca?
-3. La ruta entre la ciudad de Neuquén y la ciudad de Viedma es de 650 kilómetros. Si ya se recorrieron 345, ¿cuántos kilómetros faltan para llegar?
+3. La ruta entre la ciudad de Neuquén y la ciudad de Viedma es de 650 kilómetros. Si ya se recorrieron 400, ¿cuántos kilómetros faltan para llegar?
 
 >En muchos problemas se puede sumar o restar para responder a la misma pregunta.
 
@@ -63,3 +66,9 @@ Como les contábamos en páginas anteriores, vamos a trabajar algunas ideas que 
 
 -----
 Todo el material fue extraido de la [Serie Piedra Libre](http://www.educ.ar/sitios/educar/recursos/ver?id=118471&coleccion_id=118471&categoria_id=11952 "Serie Piedra Libre")
+
+
+
+
+
+
