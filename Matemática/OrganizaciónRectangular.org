@@ -1,0 +1,24 @@
+* Organización Rectangular
+Ejercicios de:
+- Hacer Matemática en 3°
+
+** Presentación de trabajos
+En la escuela N° 18, todos los años se organiza una presentación de trabajos realizados por los alumnos. Hay filmaciones, galería de dibujos, lectura de cuentos y muchas cosas más.
+
+1. Para ver las la filmación del trabajo en la huerta, el portero organizó un aula con 7 filas de 8 sillas cada una y para escuchar los cuentos que escribieron los alumnos, colocó 4 filas de 6 sillas cada una en otra aula.
+   ¿Cuántas personas podrán estar sentadas en esas dos aulas al mismo tiempo?
+2. Los chicos de 6° D quieren ordenar 32 sillas para quienes asisten a su trabajo de ciencias naturales.
+   ¿Cómo pueden ordenarlas, si quieren que todas las filas tengan la misma cantidad de sillas? Dibujá una manera de organizarlas.
+3. ¿Hay otras maneras de ordenar las sillas?
+
+La directora de la escuela le dejó al portero indicaciones precisas para organizar las sillas en otras tres aulas. El papel decía:
+
+#+BEGIN_QUOTE
+- En 5° C, poner 7 x 7
+- En 3° D, poner 6 x 8
+- En 2° C, poner 9 x 5
+#+END_QUOTE
+
+1. ¿En qué aula caben más personas sentadas?
+2. El portero organizó el aula de 3°B en 6 filas de 8 sillas cada una, pero antes de la función trajeron  15 sillas más. ¿Podrá colocarlas de manera que todas las filas tengan igual número de sillas?
+
