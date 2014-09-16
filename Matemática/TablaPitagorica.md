@@ -4,8 +4,8 @@ Pitágoras fue un matemático y filósofo griego que vivió hace unos 2.500 año
 
 En la siguiente tabla de Pitágoras, ya está ubicado el número 48 en la casilla donde se cruzan la fila del 6 con la columna del 8. El número 48 es la cantidad de cuadraditos del rectángulo que en la tabla está sombreado. Tiene 8 columnas y 6 filas. Para saber cual es el numero de cuadraditos también se puede calcular 6 x 8.
 
-|x|1|2|3|4|5|6|7|8|9|10|
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-.|:-.|
+|x |1 |2 |3 |4 |5 |6 |7 |8 |9 |10 |
+|--|--|--|--|--|--|--|--|--|--|--|
 |1| | | | | | | | | |  |
 |2| | | | | | | | | |  |
 |3| | | | | | | | | |  |
