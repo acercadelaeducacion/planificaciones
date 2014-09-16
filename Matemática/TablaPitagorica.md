@@ -1,6 +1,6 @@
-# La Tabla Pitagórica [^1]
+# La Tabla Pitagórica 
 
-Pitágoras fue un matemático y filósofo griego que vivió hace unos 2.500 años. Inventó una tabla, que lleva su nombre, donde aparecen los resultados de todas las multiplicaciones de los números hasta 10.
+Pitágoras [^1] fue un matemático y filósofo griego que vivió hace unos 2.500 años. Inventó una tabla, que lleva su nombre, donde aparecen los resultados de todas las multiplicaciones de los números hasta 10.
 
 En la siguiente tabla de Pitágoras, ya está ubicado el número 48 en la casilla donde se cruzan la fila del 6 con la columna del 8. El número 48 es la cantidad de cuadraditos del rectángulo que en la tabla está ~~sombreado~~ marcado con las cruces. Tiene 8 columnas y 6 filas. Para saber cual es el numero de cuadraditos también se puede calcular 6 x 8.
 
